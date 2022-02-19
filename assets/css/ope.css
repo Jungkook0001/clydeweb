@@ -90,3 +90,12 @@ p {
 .col-sm-6.col-lg-4 {
     margin: 20px;
 }
+
+img {
+  border-radius: 50%;
+    width: 100px;
+    height: 100px;
+      img-align: center;
+
+
+}
